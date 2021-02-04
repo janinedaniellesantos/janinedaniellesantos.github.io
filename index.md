@@ -7,32 +7,26 @@
 [GrapeVine](/grapevine)
 * Figma
 * UI/UX Design
-
 <img src="images/grapevine.png?raw=true"/>
 
 ---
-[Carlos' Library](/pdf/sample_presentation.pdf)
+[Carlos' Library](/carlos)
 * React with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
 * Restful API
-* UI/UX Design, JavaScript, HTML, CSS
-
+* Heroku Deployment, Node.js
+* UI/UX Design
 <img src="images/carlosLibrary.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hello Kitty Dashboard](/dashboard)
+* Qt with C++
+* OpenWeatherMap API and Bing Map API (HTTP Request)
+* Database Management
+* Open/Read External File
+<img src="images/dashboard.png?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
