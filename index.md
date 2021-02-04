@@ -15,7 +15,7 @@
 * Restful API
 * Heroku Deployment, Node.js
 * UI/UX Design
-<img src="images/carlosLibrary.png"/>
+<img src="images/carlosLibrary.png?raw=true"/>
 
 ---
 [Hello Kitty Dashboard](/dashboard)
