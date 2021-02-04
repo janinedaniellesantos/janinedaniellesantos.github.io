@@ -36,3 +36,5 @@ Update Book Page
 <img src="images/update-book.png?raw=true"/>
 <br/>
 
+<a href="https://janine-net-frontend.herokuapp.com/home.html">View My Front End Heroku App</a> 
+
