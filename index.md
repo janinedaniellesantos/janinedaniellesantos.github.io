@@ -2,10 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[GrapeVine](/grapevine)
+* Figma
+* UI/UX Design
+
+<img src="grapevine.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
