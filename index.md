@@ -11,8 +11,12 @@
 <img src="images/grapevine.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Carlos' Library](/pdf/sample_presentation.pdf)
+* React with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
+* Restful API
+* UI/UX Design, JavaScript, HTML, CSS
+
+<img src="carlosLibrary"/>
 
 ---
 [Project 3 Title](http://example.com/)
