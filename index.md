@@ -16,7 +16,7 @@
 * Restful API
 * UI/UX Design, JavaScript, HTML, CSS
 
-<img src="carlosLibrary"/>
+<img src="images/carlosLibrary"/>
 
 ---
 [Project 3 Title](http://example.com/)
