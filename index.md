@@ -8,7 +8,7 @@
 * Figma
 * UI/UX Design
 
-<img src="grapevine.png?raw=true"/>
+<img src="images/grapevine.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
