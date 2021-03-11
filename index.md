@@ -1,17 +1,17 @@
-## Portfolio
+## Projects
 (click the blue links for more information) 
 
 ---
 
-### Projects
-
 [GrapeVine](/grapevine)
+Mobile app that matches users ethical values with content and businesses to support. I worked as the main UX Designer in a cross functional team of 5 and created over 10 main use case screens
 * Figma
 * UI/UX Design
 <img src="images/grapevine.png?raw=true"/>
 
 ---
 [Carlos' Library](/carlos)
+Web application that allows admin to store and update library information. Programmed both web application and Node.js express server to host the web app.   
 * React with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
 * Restful API
 * Heroku Deployment, Node.js
