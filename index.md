@@ -1,4 +1,5 @@
 ## Portfolio
+(click the blue links for more information) 
 
 ---
 
