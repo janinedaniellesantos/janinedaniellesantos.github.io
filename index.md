@@ -26,9 +26,9 @@
 <img src="images/dashboard.png?raw=true"/>
 
 ---
+### About Me
 
-
-
+Hey there my name is Janine
 
 
 ---
