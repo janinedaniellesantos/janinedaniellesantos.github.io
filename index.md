@@ -2,7 +2,7 @@
 (click the blue links for more information) 
 
 ---
-[ARTEMIS](/dashboard)
+[ARTEMIS](/dashboard)<br>
 A web application that controls an aquatic drone. I am working on building and designing the web app as well as program a Node.js express server (for hosting the web app) onto a RaspberryPi.
 * IOT
 * RaspberryPi
