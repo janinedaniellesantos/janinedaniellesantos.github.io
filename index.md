@@ -26,14 +26,14 @@
 <img src="images/dashboard.png?raw=true"/>
 
 ---
-## A bit more about me
+### A bit more about me
 
 I am well versed in C++, and I have a deep understanding of JavaScript, HTML, and CSS. I have created multiple 
 applications using one or a combination of those languages. 
 
 I am excited about opportunities that allow me to build upon my knowledge and skills as a programmer and designer. 
 
-Check out my resume here: https://www.figma.com/file/3uBzFPSDEXoZOD7q076Zwh/Feb-2021-Resume?node-id=0%3A1
+ <a href="https://www.figma.com/file/3uBzFPSDEXoZOD7q076Zwh/Feb-2021-Resume?node-id=0%3A1">Check out my resume</a> 
 
 Thank you for stopping by!
 
