@@ -2,11 +2,18 @@
 (click the blue links for more information) 
 
 ---
+[Hello Kitty Dashboard](/dashboard)
+* Qt with C++
+* OpenWeatherMap API and Bing Map API (HTTP Request)
+* Database Management
+* Open/Read External File
+<img src="images/dashboard.png?raw=true"/>
 
+---
 [GrapeVine](/grapevine) <br>
 Mobile app that matches users ethical values with content and businesses to support. I worked as the main UX Designer in a cross functional team of 5 and created over 10 main use case screens
 * Figma
-* UI/UX Design
+* UI/UX Design <br>
 <img src="images/grapevine.png?raw=true"/>
 
 ---
@@ -15,16 +22,8 @@ Web application that allows admin to store and update library information. Progr
 * React with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
 * Restful API
 * Heroku Deployment, Node.js
-* UI/UX Design
+* UI/UX Design <br>
 <img src="images/carlosLibrary.png?raw=true"/>
-
----
-[Hello Kitty Dashboard](/dashboard)
-* Qt with C++
-* OpenWeatherMap API and Bing Map API (HTTP Request)
-* Database Management
-* Open/Read External File
-<img src="images/dashboard.png?raw=true"/>
 
 ---
 ### A bit more about me
