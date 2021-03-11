@@ -9,7 +9,7 @@ This server will provide a RESTful API to work with Books. Use Postman for API o
 - Interaction between front-end and back-end
 - UI design
 
-<a href="https://janine-net-frontend.herokuapp.com/update.html">View the Frontend Heroku App</a> 
+<a href="https://janine-net-frontend.herokuapp.com/update.html">View the Frontend Heroku App</a> <br>
 <a href="https://github.com/janinedaniellesantos/integration-front-end">View My Front End Project Files on github</a> 
 
 Intro Page
